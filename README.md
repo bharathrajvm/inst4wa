@@ -1,7 +1,7 @@
 Inst4WA - Simple Deployment Framework for Windows Azure
 =======================================================
 
-## Introduction
+## Introduction.
 
 ## Testing
 
